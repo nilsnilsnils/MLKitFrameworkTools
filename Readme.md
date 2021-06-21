@@ -1,6 +1,6 @@
 # GoogleMLKit as Package
 
-The package was created manually because its not available as Package.
+The package can be created manually because its not available as Package.
 Issue is already open @ Google
 `https://issuetracker.google.com/issues/174418229`
 
